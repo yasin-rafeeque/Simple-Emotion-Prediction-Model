@@ -1,5 +1,5 @@
-# Simple-Emotion-Prediction-Model
-# Emotion Detection using Machine Learning
+
+# Simple Emotion Detection using Machine Learning
 
 ## 📌 Overview
 This project is a text-based Emotion Detection system built using Machine Learning. It classifies user text into one of six emotions using Natural Language Processing (NLP) techniques and Logistic Regression.
